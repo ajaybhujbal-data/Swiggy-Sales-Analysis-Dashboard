@@ -7,7 +7,7 @@ An interactive **Swiggy Sales Analysis Dashboard** built using **Microsoft Excel
 The dashboard transforms approximately **197K orders** into an interactive business intelligence report with KPIs, charts, slicers, and geographic analysis.
 # 🍔 Swiggy Sales Analysis Dashboard | Excel
 
-![Swiggy Sales Dashboard](dashboard.png)
+![Swiggy Sales Dashboard](dashbord.png)
 
 ## 📌 Project Overview
 
