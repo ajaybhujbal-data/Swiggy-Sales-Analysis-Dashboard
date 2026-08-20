@@ -5,7 +5,13 @@
 An interactive **Swiggy Sales Analysis Dashboard** built using **Microsoft Excel** to analyze sales performance, customer ratings, orders, food types, locations, cities, restaurants, and time-based sales trends.
 
 The dashboard transforms approximately **197K orders** into an interactive business intelligence report with KPIs, charts, slicers, and geographic analysis.
+# 🍔 Swiggy Sales Analysis Dashboard | Excel
 
+![Swiggy Sales Dashboard](dashboard.png)
+
+## 📌 Project Overview
+
+An interactive Swiggy Sales Analysis Dashboard built using Microsoft Excel...
 
 ---
 
